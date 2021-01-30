@@ -1,0 +1,22 @@
+h1 {
+  margin: auto;
+  padding-top: 1rem;  
+  color: rgb(132, 143, 235);
+  text-align: center;
+}
+
+form {
+    margin: auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+figure {
+    margin: auto;
+    text-align: center;
+}
+
+figure figcaption {
+    font-size: larger;
+    font-weight: bold;
+}
