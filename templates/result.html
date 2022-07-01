@@ -10,7 +10,10 @@
     {% if filename %}
     <figure>
         <img src="{{ url_for('send_file', filename= filename, caption=caption) }}" >
-        <figcaption> {{caption}} </figcaption>
+        <figcaption> <h2>{{caption}}</h2> </figcaption>
+        <a href="http://127.0.0.1:5000/">
+            <button>Try Another Image</button>
+        </a>
     </figure>
     {% endif %}
 </body>
