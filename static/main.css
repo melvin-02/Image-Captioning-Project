@@ -1,3 +1,9 @@
+body {
+    background-image: url('luxa.org-opacity-changed-pexels-jess-bailey-designs-743986.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
 h1 {
   margin: auto;
   padding-top: 1rem;  
@@ -9,6 +15,11 @@ form {
     margin: auto;
     padding: 2rem;
     text-align: center;
+}
+
+img {
+    width: 60%;
+    height: 60%;
 }
 
 figure {
