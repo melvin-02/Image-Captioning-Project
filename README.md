@@ -13,5 +13,5 @@ Run the app.py file
 python app.py
 ```
   
-## Some Test Captions
-![TestImage_1]("test_images/Screenshot (39).png")  
+## Examples
+![TestImage_1](https://github.com/melvin-02/Image-Captioning-Project/blob/master/test_images/Screenshot%20(39).png)  
