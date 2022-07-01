@@ -14,4 +14,12 @@ python app.py
 ```
   
 ## Examples
-![TestImage_1](https://github.com/melvin-02/Image-Captioning-Project/blob/master/test_images/Screenshot%20(39).png)  
+![TestImage_1](https://github.com/melvin-02/Image-Captioning-Project/blob/master/test_images/Screenshot%20(45).png)  
+![TestImage_2](https://github.com/melvin-02/Image-Captioning-Project/blob/master/test_images/Screenshot%20(44).png)  
+![TestImage_3](https://github.com/melvin-02/Image-Captioning-Project/blob/master/test_images/Screenshot%20(43).png)  
+![TestImage_4](https://github.com/melvin-02/Image-Captioning-Project/blob/master/test_images/Screenshot%20(42).png)  
+![TestImage_5](https://github.com/melvin-02/Image-Captioning-Project/blob/master/test_images/Screenshot%20(41).png)  
+![TestImage_6](https://github.com/melvin-02/Image-Captioning-Project/blob/master/test_images/Screenshot%20(40).png)  
+![TestImage_7](https://github.com/melvin-02/Image-Captioning-Project/blob/master/test_images/Screenshot%20(39).png)  
+ 
+
